@@ -6,14 +6,7 @@
   <b>👨‍💻 Himanshu Kumar • 24BCG10019</b>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-Compatible-2ECC71?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-Scripting-3498DB?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20Source-GPL-F39C12?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CLI-Menu--Driven-2C3E50?style=for-the-badge"/>
-</p>
 
----
 
 ## 🧠 About the Project
 
