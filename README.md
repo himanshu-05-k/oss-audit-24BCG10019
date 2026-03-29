@@ -39,9 +39,9 @@ chmod +x *.sh
 
 ## 🖥️ Interface Preview
 
-==============================
+
    OPEN SOURCE AUDIT TOOL
-==============================
+
 1. System Identity
 2. Package Inspector
 3. Disk Auditor
